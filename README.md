@@ -94,8 +94,8 @@ sudo docker run --gpus all -it --rm --ipc=host -v {PATH_DB}:/data -v \
 #   |- ASVspoof2019
 #   |      |- LA
 #   |- ASVspoof2021_DF
-#   |- ASVspoof2021_DF_eval
-#   |- keys
+#          |- ASVspoof2021_DF_eval
+#          |- keys
 ```
 
 # Run experiment
