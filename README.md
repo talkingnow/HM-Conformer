@@ -21,7 +21,7 @@ Pytorch code for following paper:
 
 * **Title** : HM-Conformer: A Conformer-based audio deepfake detection system with hierarchical pooling and multi-level classification token aggregation methods
 
-  * https://arxiv.org/pdf/2309.08208.pdf [Accepted at ICASSP 2024 (change URL later)]: https://arxiv.org/pdf/2309.08208.pdf
+  *  [Accepted at ICASSP 2024 (change URL later)]: https://arxiv.org/pdf/2309.08208.pdf
 
 * **Autor** :  Hyun-seo Shin\*, Jungwoo Heo\*, Ju-ho Kim, Chan-yeong Lim, Wonbin Kim, Ha-Jin Yu
 
