@@ -112,8 +112,9 @@ First, you need to set system arguments. You can set arguments in `arguments.py`
 	CAUTION! You need to use 2 or more GPUs
 
 2. 'TEST'        : True or False
-	'TEST' is path where VoxCeleb2 train partition is stored.
-	input type is str
+	'TEST' is the factor that determines whether you use inference or learning.
+        Set it to 'True' if you only want to infer, or 'False' if you want to train.
+	input type is bool
 ```
 
 ### Additional logger
